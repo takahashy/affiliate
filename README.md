@@ -1,2 +1,1 @@
-# affiliate
-ECommerce website for affiliate marketing
+# Comdot Website
