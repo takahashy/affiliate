@@ -60,6 +60,10 @@ iframe {
     border-radius: 20px;
 }
 
+.featurette-divider {
+    border-color: #fff;
+}
+
 /* PROFILE PAGE */
 .profile-img {
   border-radius: 50%;
